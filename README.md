@@ -1,2 +1,2 @@
-# msoma
+# M-soma
 School Management Application
